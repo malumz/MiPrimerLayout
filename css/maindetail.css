@@ -1,0 +1,74 @@
+/*----------------------------------BIOGRAFIA*/
+.contenedor{
+	width: 700px;
+	border:2px solid gray;
+	margin-top: 50px;
+	margin-left: 21%;
+	}
+.chica{
+	border-radius: 200px;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 35%;
+}
+h2{
+	font-size: 26px;
+}
+.biografia{
+	margin:10px 30px 10px 30px;
+	font-size: 18px;
+}
+/*----------------------------------HABILIDADES*/
+h4{
+	font-size: 24px;
+	margin-left: 30px;
+	text-align: left;
+}
+.habilidades{
+	width: 500px;
+	height: 30px;
+	background:gray;
+	margin-left: 65px;
+	color:white;
+	text-align: left;
+	padding: 10px;
+}
+.css{
+	width: 300px;
+	height: 30px;
+	background:gray;
+	margin-left: 65px;
+	color:white;
+	text-align: left;
+	padding: 10px;
+	margin-top: 10px;
+}
+.java{
+	width: 100px;
+	height: 30px;
+	background:gray;
+	margin-left: 65px;
+	color:white;
+	text-align: left;
+	padding: 10px;
+	margin-top: 10px;
+}
+/*----------------------------------PORTFOLIO*/
+.portafolio{
+	margin: 10px;
+	list-style: none;
+	display: inline-block;
+	text-align: left;
+	padding-left: 30px;
+	margin-left: 30px;
+
+}
+.portafolio li{
+	display: inline-block;
+	width: 28%;
+	margin: 10px;
+}
+.portafolio img{
+	
+    width: 80%;
+}
